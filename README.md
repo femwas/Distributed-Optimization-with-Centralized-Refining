@@ -1,5 +1,6 @@
 ## Distributed-Optimization with Centralized-Refining for Efficient Resource Allocation in Future Wireless Networks
 This is a code package related to the following paper:
+
 J. Bai and X. Wang “Distributed-Optimization with Centralized-Refining for Efficient Resource Allocation in Future Wireless Networks,” in IEEE Transactions on Communications, accepted, Mar. 2024.
 
 ## Content of Code Package
