@@ -1,0 +1,6 @@
+NAP_main;%generate all data before AP do Simplified Optimization
+TL_nonlinear;%NLalgorithm are very time comsuming (several hours), please reduce the MAXGenerations_base if you just want test.
+plot_bar2;Fig 10
+plot_tl;Fig 11 &12
+
+%PER Th data are generate according to the channel state shown in the paper, using MATLAB WLAN box.
