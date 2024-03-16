@@ -1,0 +1,5 @@
+main_control; %generate simulation data, increase the repeating time to get more accurate performance. 
+plot_bar; %Fig 8 plot normalized processing time and utility"Trading vs centralized", "DO-CR vs centralized"
+plot_CDF;%Fig 6 & 7 plot CDF of processing time and utility
+plot_dR; %Fig 5, plot the distribution of delta R
+plot_lt;%Fig 9, plot the utility performance under different time limitations.
